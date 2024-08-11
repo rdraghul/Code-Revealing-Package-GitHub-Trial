@@ -7,7 +7,7 @@
 
 import Foundation
 
-class inner_pHi{
+public class inner_pHi{
   public func pHi(){
     print("Hi")
   }
