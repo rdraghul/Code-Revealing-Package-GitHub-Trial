@@ -14,3 +14,7 @@ public class inner_pHi{
     print("Hi")
   }
 }
+
+public func pKello(){
+  print("Kello")
+}
