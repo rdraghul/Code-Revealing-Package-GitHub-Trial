@@ -1,1 +1,3 @@
-# Code-Revealing-Package-GitHub-Trial
+# Code Revealing Package GitHub Trial
+
+A description of this package.
